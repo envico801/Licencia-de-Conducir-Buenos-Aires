@@ -1,0 +1,37 @@
+========== Question ==========  
+
+### Uno de los dispositivos de seguridad que como minimo deben tener los automoviles es:
+
+A. Cierre centralizado de puertas.
+
+B. Paragolpes y guardabarros.
+
+C. Levanta vidrios electronico.  
+
+========== Answer ==========  
+
+Respuesta no identificada.
+
+========== Id ==========  
+592
+
+---
+
+DECK INFO
+
+TARGET DECK: Licencia::Preguntas::MLDCB - Licencia de conducir buenos aires - multi author::Part I - Introduccion::Chapter 1 - Bateria de preguntas
+
+FILE TAGS: #Licencia::#MLDCB-Licencia-de-conducir-buenos-aires-multi-author::#Part-I-Introduccion::#Chapter-1-Bateria-de-preguntas::#592-Uno-de-los-dispositivos-de-seguridad-que
+
+Tags:
+
+Reference:
+
+Related:
+
+```dataview
+LIST
+where file.name = this.file.name
+```
+
+QUESTION STATUS: Not safe to store

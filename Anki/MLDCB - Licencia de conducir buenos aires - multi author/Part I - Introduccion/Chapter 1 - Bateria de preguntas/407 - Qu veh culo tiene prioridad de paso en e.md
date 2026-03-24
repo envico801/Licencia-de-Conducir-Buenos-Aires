@@ -1,0 +1,39 @@
+========== Question ==========  
+
+### ¿Qué vehículo tiene prioridad de paso en esta intersección sin semáforo?
+
+![img_p103_11](../../../../imagenes/img_p103_11.jpeg)
+
+A. El vehículo A porque circula por una avenida.
+
+B. El vehículo B porque circula por la derecha.
+
+C. Es indistinto ya que es una esquina sin semáforo.  
+
+========== Answer ==========  
+
+A. El vehículo A porque circula por una avenida.
+
+========== Id ==========  
+407
+
+---
+
+DECK INFO
+
+TARGET DECK: Licencia::Preguntas::MLDCB - Licencia de conducir buenos aires - multi author::Part I - Introduccion::Chapter 1 - Bateria de preguntas
+
+FILE TAGS: #Licencia::#MLDCB-Licencia-de-conducir-buenos-aires-multi-author::#Part-I-Introduccion::#Chapter-1-Bateria-de-preguntas::#407-Qu-veh-culo-tiene-prioridad-de-paso-en-e
+
+Tags:
+
+Reference:
+
+Related:
+
+```dataview
+LIST
+where file.name = this.file.name
+```
+
+QUESTION STATUS: Safe to store

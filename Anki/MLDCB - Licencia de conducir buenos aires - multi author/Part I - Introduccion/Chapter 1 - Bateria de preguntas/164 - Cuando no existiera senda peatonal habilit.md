@@ -1,0 +1,35 @@
+========== Question ==========  
+
+### Cuando no existiera senda peatonal habilitada exclusivamente para personas con discapacidad se considera tal a la franja imaginaria sobre la calzada, inmediata al cordón, que comunica la rampa con la senda peatonal
+
+• Verdadero.
+
+• Falso.  
+
+========== Answer ==========  
+
+Verdadero.
+
+========== Id ==========  
+164
+
+---
+
+DECK INFO
+
+TARGET DECK: Licencia::Preguntas::MLDCB - Licencia de conducir buenos aires - multi author::Part I - Introduccion::Chapter 1 - Bateria de preguntas
+
+FILE TAGS: #Licencia::#MLDCB-Licencia-de-conducir-buenos-aires-multi-author::#Part-I-Introduccion::#Chapter-1-Bateria-de-preguntas::#164-Cuando-no-existiera-senda-peatonal-habilit
+
+Tags:
+
+Reference:
+
+Related:
+
+```dataview
+LIST
+where file.name = this.file.name
+```
+
+QUESTION STATUS: Safe to store

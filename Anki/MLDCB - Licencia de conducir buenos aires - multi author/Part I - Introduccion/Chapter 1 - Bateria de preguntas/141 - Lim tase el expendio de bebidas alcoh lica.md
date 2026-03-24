@@ -1,0 +1,35 @@
+========== Question ==========  
+
+### Limítase el expendio de bebidas alcohólicas, cualquiera sea su graduación, para su consumo, en establecimientos comerciales que tengan acceso directo desde caminos, rutas, semiautopistas o autopistas conforme lo establezca la reglamentación.
+
+• Verdadero.
+
+• Falso.  
+
+========== Answer ==========  
+
+Verdadero.
+
+========== Id ==========  
+141
+
+---
+
+DECK INFO
+
+TARGET DECK: Licencia::Preguntas::MLDCB - Licencia de conducir buenos aires - multi author::Part I - Introduccion::Chapter 1 - Bateria de preguntas
+
+FILE TAGS: #Licencia::#MLDCB-Licencia-de-conducir-buenos-aires-multi-author::#Part-I-Introduccion::#Chapter-1-Bateria-de-preguntas::#141-Lim-tase-el-expendio-de-bebidas-alcoh-lica
+
+Tags:
+
+Reference:
+
+Related:
+
+```dataview
+LIST
+where file.name = this.file.name
+```
+
+QUESTION STATUS: Safe to store

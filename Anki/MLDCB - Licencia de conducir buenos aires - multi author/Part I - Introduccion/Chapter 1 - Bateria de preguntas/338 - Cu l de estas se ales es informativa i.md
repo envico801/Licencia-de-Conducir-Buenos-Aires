@@ -1,0 +1,39 @@
+========== Question ==========  
+
+### ¿Cuál de estas señales es Informativa?
+
+![img_p82_4](../../../../imagenes/img_p82_4.jpeg)
+
+A. La señal A.
+
+B. La señal B.
+
+C. La señal C.  
+
+========== Answer ==========  
+
+A. La señal A.
+
+========== Id ==========  
+338
+
+---
+
+DECK INFO
+
+TARGET DECK: Licencia::Preguntas::MLDCB - Licencia de conducir buenos aires - multi author::Part I - Introduccion::Chapter 1 - Bateria de preguntas
+
+FILE TAGS: #Licencia::#MLDCB-Licencia-de-conducir-buenos-aires-multi-author::#Part-I-Introduccion::#Chapter-1-Bateria-de-preguntas::#338-Cu-l-de-estas-se-ales-es-informativa-i
+
+Tags:
+
+Reference:
+
+Related:
+
+```dataview
+LIST
+where file.name = this.file.name
+```
+
+QUESTION STATUS: Safe to store

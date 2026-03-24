@@ -1,0 +1,35 @@
+========== Question ==========  
+
+### Las señales de demarcación horizontal blancas de trazo intermitente delimitan los carriles de ciruclación y tienen carácter prohibitivo para cambiar de carril.
+
+• Verdadero.
+
+• Falso.  
+
+========== Answer ==========  
+
+Falso.
+
+========== Id ==========  
+587
+
+---
+
+DECK INFO
+
+TARGET DECK: Licencia::Preguntas::MLDCB - Licencia de conducir buenos aires - multi author::Part I - Introduccion::Chapter 1 - Bateria de preguntas
+
+FILE TAGS: #Licencia::#MLDCB-Licencia-de-conducir-buenos-aires-multi-author::#Part-I-Introduccion::#Chapter-1-Bateria-de-preguntas::#587-Las-se-ales-de-demarcaci-n-horizontal-bla
+
+Tags:
+
+Reference:
+
+Related:
+
+```dataview
+LIST
+where file.name = this.file.name
+```
+
+QUESTION STATUS: Not safe to store

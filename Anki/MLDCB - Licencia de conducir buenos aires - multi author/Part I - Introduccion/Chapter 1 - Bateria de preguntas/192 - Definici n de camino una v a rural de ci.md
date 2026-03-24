@@ -1,0 +1,35 @@
+========== Question ==========  
+
+### Definición de Camino: una vía rural de circulación;
+
+• Verdadero.
+
+• Falso.  
+
+========== Answer ==========  
+
+Verdadero.
+
+========== Id ==========  
+192
+
+---
+
+DECK INFO
+
+TARGET DECK: Licencia::Preguntas::MLDCB - Licencia de conducir buenos aires - multi author::Part I - Introduccion::Chapter 1 - Bateria de preguntas
+
+FILE TAGS: #Licencia::#MLDCB-Licencia-de-conducir-buenos-aires-multi-author::#Part-I-Introduccion::#Chapter-1-Bateria-de-preguntas::#192-Definici-n-de-camino-una-v-a-rural-de-ci
+
+Tags:
+
+Reference:
+
+Related:
+
+```dataview
+LIST
+where file.name = this.file.name
+```
+
+QUESTION STATUS: Not safe to store

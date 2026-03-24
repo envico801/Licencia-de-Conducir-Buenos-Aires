@@ -1,0 +1,37 @@
+========== Question ==========  
+
+### El conductor del vehículo A quiere volver rápidamente al carril derecho porque ve ante él una situación de peligro, ¿qué debe hacer el conductor del vehículo B?
+
+A. Aumentar la velocidad para que realice la maniobra detrás suyo.
+
+B. Reducir la velocidad para facilitarle el retorno al carril.
+
+C. Tocar bocina y hacer guiño de luces para indicarle que no debe realizar la maniobra.  
+
+========== Answer ==========  
+
+B. Reducir la velocidad para facilitarle el retorno al carril.
+
+========== Id ==========  
+429
+
+---
+
+DECK INFO
+
+TARGET DECK: Licencia::Preguntas::MLDCB - Licencia de conducir buenos aires - multi author::Part I - Introduccion::Chapter 1 - Bateria de preguntas
+
+FILE TAGS: #Licencia::#MLDCB-Licencia-de-conducir-buenos-aires-multi-author::#Part-I-Introduccion::#Chapter-1-Bateria-de-preguntas::#429-El-conductor-del-veh-culo-a-quiere-volver
+
+Tags:
+
+Reference:
+
+Related:
+
+```dataview
+LIST
+where file.name = this.file.name
+```
+
+QUESTION STATUS: Safe to store
